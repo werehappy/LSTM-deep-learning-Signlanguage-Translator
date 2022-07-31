@@ -1,7 +1,7 @@
 # LSTM-deep-learning-Signlanguage-Translator
 The purpose of this program is to translate Vietnamese sign language on real time.
 
-This program use Mediapipe model and Tensorflow deep learning model from Google.
+This program is made using Python, use Mediapipe model and Tensorflow deep learning model from Google.
 
 It reads the video file with Mediapipe Holistic model to extract keypoints. The keypoints are read by every frames and stored using Numpy arrays.
 
